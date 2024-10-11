@@ -1,6 +1,5 @@
 # Build-and-Deploy-Ecommerce-Website-With-HTML-CSS-JavaScript
-
-[<img alt="Build-and-Deploy-Ecommerce-Website-With-HTML-CSS-JavaScript" width="100%" src="../Ecommerce/img/emmaCommerce.png" />]
+[<img alt="Build-and-Deploy-Ecommerce-Website-With-HTML-CSS-JavaScript" width="100%" src="../Ecommerce/img/emmaCommerce.png" />]()
 
 ## About this Project
 
